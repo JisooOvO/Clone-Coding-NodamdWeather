@@ -4,6 +4,8 @@
 
 ## Project result
 
+![프로젝트결과](project_result.jpg)
+
 ## What I learned
 
 - React Native
